@@ -1,4 +1,6 @@
 # DemoProject
+
+I have expierance working with Api's before but this was my first time using spring boot. Looking forward to learning more
 Pull project into intilj, start up spring by running main in DemoApplication.class. Run requests. 
 I built an api to do add people and addresses it runs with requests at the moment you can run them through the browser, curl or postman.
 I did manual testing because I wanted to set up a web page and have some selenium tests to test the api but I didnt have time to do so.
